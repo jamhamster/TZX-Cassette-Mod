@@ -1,0 +1,16 @@
+TZXCassette Mod Documentation License and terms of use. 
+
+THE TZXCassette guides and the IP they contain are meant as a guide to building our own TZXCassette. The idea of the TZXCassette is so that users can use this information to build their own. 
+This is not to be an open source design to be commercially mass produced. The general ethos of the TZXCassette is similar to GameBoy Zero builds, with crowd sourced improvements over time. 
+
+The information and design elements in the TZXCassette, specifically the layout, function, parts and their orientation and Play activation button mechanism featured in this document have all been developed by myself and have taken a considerable number of weeks and effort to develop. 
+
+My insistence that these are build by hand is so that users will be able to build units themselves and gain the satisfaction from building their own device (Like a Jedi building their own lightsaber!) and do not simply ‘throw money at it’ to get one.
+
+This is not for mass production/wrapping up in a PCB without discussion and credit to the creators of Aduitape/TZXDuino (Duncan Edwards/Andrew Beer) and the TZXCassette (Stuart Brand)
+
+I appreciate that it is only a matter of time before someone tries to copy the design and concept for mass production and I am not against this, provided the creators named above are consulted, credited and linked to appropriately. 
+
+Of course, If you continue to use the information purely as a money grabbing exercise without credit already knowing the above then it would be extremely disappointing and you would not be a very nice person. ☹
+
+Stuart Brand.
